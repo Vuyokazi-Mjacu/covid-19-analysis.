@@ -26,7 +26,7 @@ This project involves analyzing global COVID-19 data to explore trends in cases,
     ```
 2. Navigate to the project folder:
     ```bash
-    cd repository-name
+    cd covid-19-analysis.
     ```
 3. Open the Jupyter Notebook:
     ```bash
