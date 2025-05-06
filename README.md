@@ -38,4 +38,5 @@ This project involves analyzing global COVID-19 data to explore trends in cases,
 - The trends in COVID-19 cases and deaths provide insights into the impact of interventions like lockdowns and vaccinations.
 
 ## License
-This project is licensed under
+[Visit my GitHub profile](https://github.com/Vuyokazi-Mjacu)
+
