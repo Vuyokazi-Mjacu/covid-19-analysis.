@@ -22,7 +22,7 @@ This project involves analyzing global COVID-19 data to explore trends in cases,
 ## How to Run/View the Project
 1. Clone this repository using the command:
     ```bash
-    git clone https://github.com/yourusername/repository-name.git
+    git clone [https://github.com/yourusername/repository-name.git](https://github.com/Vuyokazi-Mjacu/covid-19-analysis..git)
     ```
 2. Navigate to the project folder:
     ```bash
